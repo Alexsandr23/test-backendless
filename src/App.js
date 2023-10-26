@@ -4,8 +4,6 @@ import {BrowserRouter as Router, Route, Redirect, Switch} from 'react-router-dom
 import tabsData from "./tabs.json"
 import Tab from './components/Tab';
 
-
-
 function App() {
   return (
     <Router>
