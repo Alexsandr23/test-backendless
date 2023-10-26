@@ -1,0 +1,24 @@
+
+.inactive-tab {
+    background-color: #f4f4f4;
+    color: #333; 
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .active-tab {
+    background-color: #007bff;
+    color: #fff; 
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .tab-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #eee;
+  }
